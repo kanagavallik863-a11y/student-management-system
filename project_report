@@ -1,0 +1,83 @@
+Submitted by: kanagavalli v
+Department: AIDS
+Register number: 922525243074
+Project Title: student management system
+
+1. ABSTRACT
+The Student Management System is a simple web-based application developed to manage student details in an organized and user-friendly way. The system provides fields to enter a student's name, register number, department and email address. It also provides a search facility to find student records quickly and an Actions section for managing the displayed records. The project is designed using HTML for structure, CSS for presentation and JavaScript for interactive functionality. The application is deployed using GitHub Pages so that it can be accessed through a web browser.
+
+2. INTRODUCTION
+Managing student information manually can take time and may lead to errors or difficulty in finding records. A Student Management System provides a simple digital solution for entering and viewing student information. This project demonstrates the development of a responsive web interface with basic student record management features.
+
+3. OBJECTIVES
+To create a simple and user-friendly student management interface.
+To add student information such as name, register number, department and email.
+To provide a search option for locating student records.
+To display student details in a structured table.
+To provide action controls for managing student records.
+To deploy the project online using GitHub Pages.
+
+4. TECHNOLOGIES USED
+Technology	Purpose	File
+HTML	Creates the structure and form elements of the web page.	index.html
+CSS	Provides layout, spacing, styling and visual appearance.	style.css
+JavaScript	Provides interaction and student record operations.	script.js
+GitHub Pages	Hosts and publishes the website online.	Deployment
+
+5. SYSTEM FEATURES
+Student Name input field
+Register Number input field
+Department input field
+Email input field
+Add Student button
+Search Student field
+Student table with S.No, Name, Register No, Department and Email columns
+Actions column for record-related operations
+
+6. SYSTEM WORKING
+The user enters the student's name, register number, department and email address in the input fields. After selecting Add Student, the application can display the student information in the table. The Search Student field can be used to locate a particular record. The Actions column is intended for operations on individual student records. The interface is designed to keep student information easy to enter, view and manage.
+
+7. USER INTERFACE
+Figure 1: Student Management System – Home Page
+ 
+8. PROJECT STRUCTURE
+student-management-system/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+9. ADVANTAGES
+Simple and easy-to-use interface.
+Quick entry of student information.
+Search facility makes records easier to locate.
+Web-based and accessible through a browser.
+Uses basic front-end technologies that are easy to understand and maintain.
+Can be extended with a database and login system in the future.
+
+10. LIMITATIONS
+The current project is a front-end web application.
+A permanent database is not included in the basic version.
+Authentication and user roles are not included.
+Advanced reporting and data export can be added in future versions.
+
+11. FUTURE ENHANCEMENTS
+Connect the application to a database such as MySQL or MongoDB.
+Add login and authentication for administrators.
+Add edit and delete confirmation features.
+Add student photo and additional academic details.
+Provide export options such as PDF or Excel.
+Add sorting, filtering and pagination for larger student lists.
+
+12. LIVE PROJECT LINK
+Live Website: https://kanagavallik863-a11y.github.io/student-management-system/
+GitHub Repository: https://github.com/kanagavallik863-a11y/student-management-system
+
+13. CONCLUSION
+The Student Management System demonstrates how HTML, CSS and JavaScript can be combined to build a simple web application for managing student information. The project provides a clear interface for entering and viewing student records and includes a search facility. Deployment through GitHub Pages makes the application accessible online. The project can be further improved by adding a database, authentication and advanced record-management features.
+
+14. REFERENCES
+MDN Web Docs – HTML, CSS and JavaScript documentation.
+GitHub Pages documentation.
+Project source code in the GitHub repository.
+
