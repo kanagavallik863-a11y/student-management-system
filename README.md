@@ -1,1 +1,2 @@
-file:///C:/Users/kanag/OneDrive/Desktop/student%20performance%20prediction/index.html
+https://kanagavallik863-a11y.github.io/student-management-system/
+
